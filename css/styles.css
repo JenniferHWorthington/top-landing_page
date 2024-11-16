@@ -1,0 +1,19 @@
+body {
+  padding: 0 15%;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-links {
+  display: flex;
+  gap: 12px;
+}
+
+.header-links a {
+  text-decoration: none;
+}
