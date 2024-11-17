@@ -50,3 +50,41 @@
   justify-content: center;
   align-items: center;
 }
+
+.information-container {
+  padding: 0 15%;
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  height: 300px;
+}
+
+.information-box-container {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+
+.information-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+.information-image-holder {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.info-para {
+  width: 100px;
+}
