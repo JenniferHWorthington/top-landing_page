@@ -101,3 +101,23 @@
   height: 300px;
   padding: 0 15%;
 }
+
+.cta-container {
+  padding: 0 15%;
+}
+
+.cta {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-box {
+  height: 100px;
+  width: 100%;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
