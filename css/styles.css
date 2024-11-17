@@ -1,5 +1,6 @@
 .header-container {
   padding: 0 15%;
+  background-color: #1F2937;
 }
 
 .header {
@@ -20,6 +21,7 @@
 
 .title-section-container {
   padding: 0 15%;
+  background-color: #1F2937;
 }
 
 .title-section {
@@ -91,6 +93,7 @@
 
 .quote-container {
   padding: 0 15%;
+  background-color: #E5E7EB;
 }
 
 .quote {
@@ -124,6 +127,7 @@
 
 .footer-container {
   padding: 0 15%;
+  background-color: #1F2937;
 }
 
 .footer {
