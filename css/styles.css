@@ -121,3 +121,14 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.footer-container {
+  padding: 0 15%;
+}
+
+.footer {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
