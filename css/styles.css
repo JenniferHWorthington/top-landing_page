@@ -1,4 +1,4 @@
-body {
+.header-container {
   padding: 0 15%;
 }
 
@@ -16,6 +16,10 @@ body {
 
 .header-links a {
   text-decoration: none;
+}
+
+.title-section-container {
+  padding: 0 15%;
 }
 
 .title-section {
